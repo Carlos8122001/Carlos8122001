@@ -74,6 +74,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/CarlosDev/CarlosDev/output/snake.svg" alt="Snake animation" />
-
 ###
