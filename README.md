@@ -16,8 +16,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">Tecnologías</h2>
 
 ###
