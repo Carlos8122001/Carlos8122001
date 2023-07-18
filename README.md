@@ -6,8 +6,6 @@
 
 ###
 
-<br clear="both">
-
 <h1 align="center">Hola👋 Soy Carlos Velásquez</h1>
 
 ###
@@ -38,8 +36,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">Proyectos</h2>
 
 ###
@@ -56,13 +52,9 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">Contacto</h2>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="www.linkedin.com/in/carlos-velásquez-078853233" target="_blank">
