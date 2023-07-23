@@ -56,5 +56,5 @@
 
 ###
 <img height="50" width="50" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg">
-<a align="left" target="_blank" href="www.linkedin.com/in/carlos-velásquez-078853233">www.linkedin.com/in/carlos-velásquez-078853233</a>
+<a align="left" target="_blank" href="https://www.linkedin.com/in/carlos-vel%C3%A1squez-078853233">www.linkedin.com/in/carlos-velásquez-078853233</a>
 </img>
