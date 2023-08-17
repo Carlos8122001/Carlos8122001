@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> Soy desarrollador Front-end 💻con una gran pasión por el mundo de la tecnología y la informática, siempre con ganas de aprender y crecer continuamente. 😎 💻😁</p>
+<p align="left"> Soy desarrollador Front-end 💻con una gran pasión por el mundo de la tecnología y la informática, siempre con ganas de aprender y crecer continuamente.  💻😁/p>
 
 ###
 
