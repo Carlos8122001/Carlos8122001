@@ -40,7 +40,7 @@
 
 ###
 
-<a align="left">https://project-todo-app-c.netlify.app/</a>
+<a align="left">https://todo-app-project-c.netlify.app//</a>
 
 ###
 
